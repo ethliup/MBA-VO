@@ -1,5 +1,0 @@
-devName cam0
-# resolution: nCols, nRows
-resolution 640 480
-# K: fx fy cx cy with pinhole camera model
-K 320 320 320 240

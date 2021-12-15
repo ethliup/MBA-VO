@@ -1,0 +1,2 @@
+/usr/bin/ar qc libslam_utils.a  CMakeFiles/slam_utils.dir/ColorMapJet.cpp.o CMakeFiles/slam_utils.dir/Geometry.cpp.o CMakeFiles/slam_utils.dir/InputOutput.cpp.o CMakeFiles/slam_utils.dir/SplineTrajectory.cpp.o
+/usr/bin/ranlib libslam_utils.a
