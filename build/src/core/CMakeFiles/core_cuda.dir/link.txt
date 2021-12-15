@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcore_cuda.a  CMakeFiles/core_cuda.dir/cuda/core_cuda_generated_cuda_arithmetic.cu.o
-/usr/bin/ranlib libcore_cuda.a

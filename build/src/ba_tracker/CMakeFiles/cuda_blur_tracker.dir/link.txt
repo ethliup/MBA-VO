@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcuda_blur_tracker.a  CMakeFiles/cuda_blur_tracker.dir/cuda_blur_tracker_generated_compute_hessian_gradients_cost.cu.o CMakeFiles/cuda_blur_tracker.dir/cuda_blur_tracker_generated_compute_hessian_gradients_cost_fast.cu.o CMakeFiles/cuda_blur_tracker.dir/cuda_blur_tracker_generated_compute_local_patches_xy.cu.o CMakeFiles/cuda_blur_tracker.dir/cuda_blur_tracker_generated_compute_virtual_camera_poses.cu.o
-/usr/bin/ranlib libcuda_blur_tracker.a
